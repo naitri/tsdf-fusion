@@ -1,0 +1,6 @@
+numpy==1.19.5
+open3d==0.12.0
+opencv-python==3.4.2.16
+opencv-contrib-python==3.4.2.16
+scipy==1.5.4
+scikit-image==0.18.0
